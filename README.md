@@ -36,5 +36,11 @@ research_id code similarity type title_abstract
 1415146859 EC0304 0.7908056708780745 paper concentration-mediated multicolor fluorescence polymer carbon dots abstractpolymer dots (pds) showing concentrationmediated multicolor fluorescence were first prepared from sulfuric acidtreated dehydration of pluronic f127 in a single step. pluronicbased pds (ppds) showed high dispersion stability in solvent media and exhibited a fluorescence emission that was widely tunable from red to blue by adjusting both the excitation wavelengths and the ppd concentration in an aqueous solution. this unique fluorescence behavior of ppds might be a result of crosstalk in the fluorophores of the poly(propylene glycol)rich core inside the ppd through either energy transfer or charge transfer. reconstruction of the surface energy traps of the ppds mediated through aggregation may lead to a new generation of carbonbased nanomaterials possessing a fluorescence emission and tunable by adjusting the concentration. these structures may be useful in the design of multifunctional carbon nanomaterials with tunable emission properties according to a variety of internal or external stimuli. copyright 2015 john wiley sons, ltd.
 ![docimage1](https://github.com/user-attachments/assets/639ddb04-43cc-4dff-8fa3-83c33b7e86be)
 
+## 데이터 구축방법
+![docimage2](https://github.com/user-attachments/assets/65325cd4-1d4c-4ce6-a6f0-1dab3c21d2a2)
+
 ##  데이터 다운로드
 http://doi.org/10.23057/70
+
+## 라이선스
+비영리 이용, 출처 표기, 재배포 금지
